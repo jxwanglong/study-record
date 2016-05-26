@@ -1,0 +1,7 @@
+# connect step
+1、create a repository
+2、create a empty folder on my computer
+3、move into the folder and run ommand -- "git init"
+4、pull the repository from github with command "git pull https://github.com/<username>/<repository name>.git"
+5、add a long-distance repository for the repository nameed "origin"(this is not the only name)
+6、then I can add any files into the long-distance repository and push into the server repository
